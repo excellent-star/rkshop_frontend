@@ -474,6 +474,7 @@ import  {Link} from 'react-router-dom'
                             <figure> <img className="first-img" src="assets/images/products/product-fashion-5.jpg" alt="html theme"/> <img className="hover-img" src="assets/images/products/product-fashion-6.jpg" alt="html Template"/></figure>
                             </Link> </div>
                             
+
                           <div className="pr-info-area">
                             <div className="pr-button">
                               <div className="mt-button add_to_wishlist"> <Link to="/wishlist"> <i className="fa fa-heart"></i> </Link> </div>
